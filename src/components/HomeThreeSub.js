@@ -1,7 +1,7 @@
 import { React, useState } from 'react'
 
 const HomeThreeSub = ({ id, name, Description }) => {
-  const [values, setValues] = useState(false)
+  const [values, setValues] = useState(true)
   return (
     <div key={id} className='box'>
       <button

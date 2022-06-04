@@ -17,4 +17,16 @@ export const technologies = [
     Description:
       'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Error blanditiis temporibus alias voluptatem? Necessitatibus nostrum autem enim numquam tempora minima.',
   },
+  {
+    id: 4,
+    name: 'CRUD/OPERATION',
+    Description:
+      'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Error blanditiis temporibus alias voluptatem? Necessitatibus nostrum autem enim numquam tempora minima.',
+  },
+  {
+    id: 5,
+    name: 'API',
+    Description:
+      'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Error blanditiis temporibus alias voluptatem? Necessitatibus nostrum autem enim numquam tempora minima.',
+  },
 ]
