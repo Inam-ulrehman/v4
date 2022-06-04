@@ -4,7 +4,7 @@ import styled from 'styled-components'
 const Footer = () => {
   return (
     <Wrapper>
-      All copy &copy; Right reserved by INAM by {new Date().getFullYear()}{' '}
+      All copy &copy; Right reserved by INAM {new Date().getFullYear()}{' '}
     </Wrapper>
   )
 }
@@ -14,5 +14,7 @@ const Wrapper = styled.footer`
   bottom: 0;
   width: 100%;
   padding: 10px;
+  color: var(--white);
+  text-align: center;
 `
 export default Footer
